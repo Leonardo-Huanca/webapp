@@ -1,0 +1,7 @@
+/Users/leonardohuanca/Documents/Udemy-cursos/AZ-204/webapp/bin/Publish/webapp
+/Users/leonardohuanca/Documents/Udemy-cursos/AZ-204/webapp/bin/Publish/appsettings.Development.json
+/Users/leonardohuanca/Documents/Udemy-cursos/AZ-204/webapp/bin/Publish/appsettings.json
+/Users/leonardohuanca/Documents/Udemy-cursos/AZ-204/webapp/bin/Publish/webapp.dll
+/Users/leonardohuanca/Documents/Udemy-cursos/AZ-204/webapp/bin/Publish/webapp.deps.json
+/Users/leonardohuanca/Documents/Udemy-cursos/AZ-204/webapp/bin/Publish/webapp.runtimeconfig.json
+/Users/leonardohuanca/Documents/Udemy-cursos/AZ-204/webapp/bin/Publish/webapp.pdb
